@@ -1,8 +1,8 @@
 # HiFi GO
 
-### 联系方式：HiFiGOApp@163.com
+### 联系我们：HiFiGOApp@163.com
 
-### Contact：HiFiGOApp@163.com
+### Contact Us：HiFiGOApp@163.com
 
 ## 免责声明及隐私条例
 
