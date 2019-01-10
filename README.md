@@ -20,25 +20,21 @@
 
 3.几乎支持所有音频格式源码输出。
 
-4.支持WiFi传输，手机没音乐？WiFi传输轻松帮你解决。
+4.支持封面和歌词显示。（优先内置封面，外置封面和歌词可通过把与歌曲文件相同文件名的封面和歌词文件放到和歌曲同一文件路径下即可）
 
-5.支持封面和歌词显示。（优先内置封面，外置封面和歌词可通过把与歌曲文件相同文件名的封面和歌词文件放到和歌曲同一文件路径下即可）
+5.支持自定义默认歌曲封面，让封面不再单调。（默认封面指的是没有内置和外置封面的歌曲所显示的图片）
 
-6.支持自定义默认歌曲封面，让封面不再单调。（默认封面指的是没有内置和外置封面的歌曲所显示的图片）
+6.支持全部音乐、歌手、专辑、风格、文件夹、自定义歌单、我的最爱等分类播放，想增加开车专用音乐？创建歌单so easy。
 
-7.支持DLNA，想听电脑的音乐又不想把音乐放到手机上？DLNA帮你解决。
+7.支持多项选择，实现一次性为歌单增加歌曲。
 
-8.支持全部音乐、歌手、专辑、风格、文件夹、自定义歌单、我的最爱等分类播放，想增加开车专用音乐？创建歌单so easy。
+8.支持CUE自动分轨、M3U列表。
 
-9.支持多项选择，实现一次性为歌单增加歌曲。
+9.支持DoP。
 
-10.支持CUE自动分轨、M3U列表。
+10.支持定位当前播放的歌曲，歌曲再多也不怕找不到。
 
-11.支持DoP。
-
-12.支持定位当前播放的歌曲，歌曲再多也不怕找不到。
-
-13.更多功能敬请期待。
+11.更多功能敬请期待。
 
 
 
@@ -58,22 +54,18 @@
 
 3. Almost all audio format source code output is supported.
 
-4. Support WiFi transfer, mobile phone no music? WiFi transfer is easy to solve for you.
+4. Support cover and lyrics display. (Priority built-in cover, external cover and lyrics can be achieved by placing the cover with the same file name as the song file and the lyric file in the same file path as the song)
 
-5. Support cover and lyrics display. (Priority built-in cover, external cover and lyrics can be achieved by placing the cover with the same file name as the song file and the lyric file in the same file path as the song)
+5. Support custom default song cover, so that the cover is no longer monotonous. (The default cover refers to the picture displayed by a song without a built-in or external cover)
 
-6. Support custom default song cover, so that the cover is no longer monotonous. (The default cover refers to the picture displayed by a song without a built-in or external cover)
+6. Supporting all music, singers, albums, styles, folders, custom song lists, my favorites and other classified play, want to add dedicated music for driving? Create song lists so easy.
 
-7. Support DLNA, want to listen to computer music and do not want to put music on mobile phones? DLNA helps you solve this problem.
+7. Support multiple choices to add songs to the song list at one time.
 
-8. Supporting all music, singers, albums, styles, folders, custom song lists, my favorites and other classified play, want to add dedicated music for driving? Create song lists so easy.
+8. Supports CUE automatic rail separation and M3U list.
 
-9. Support multiple choices to add songs to the song list at one time.
+9. Support DoP.
 
-10. Supports CUE automatic rail separation and M3U list.
+10. Supporting the location of the songs currently playing, no matter how many songs are not afraid to find.
 
-11. Support DoP.
-
-12. Supporting the location of the songs currently playing, no matter how many songs are not afraid to find.
-
-13. More functions are expected.
+11. More functions are expected.
